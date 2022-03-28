@@ -36,7 +36,6 @@ Run the command in the root folder of the project with optional arguments to run
 ```
 python main.py -n [player name] -p [password] -g [game name] -np [number of players] -nt [number of turns] -obs [0/1 is observer]
 ```
-##### competitive game mode (1 player): #####
 ***
 ***Our team:***
 <br>
